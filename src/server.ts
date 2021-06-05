@@ -24,5 +24,5 @@ app.use(
 );
 
 app.listen(4000, () =>
-  console.log("Express GraphQL Server Now Running On localhost:4000/graphql")
+  console.log("Express GraphQL Server1 Now Running On localhost:4000/graphql")
 );
