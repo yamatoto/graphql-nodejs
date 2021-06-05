@@ -2,18 +2,18 @@
 
 src/server\*.ts
 
-modify package.json
+# package.json 修正
 
 ```package.json
-"main": "dist/server\*.js",
+"main": "dist/server*.js",
 ```
+
+# 実行
 
 ```bash
 $ npm run build
 $ npm run start
 ```
-
-# リクエスト
 
 http://localhost:4000/graphql
 
