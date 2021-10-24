@@ -1,3 +1,7 @@
+# 概要
+
+GraphQL学習用
+
 # ファイル追加
 
 src/server\*.ts
